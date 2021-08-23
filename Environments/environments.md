@@ -13,7 +13,7 @@
 
 <figure>
 	<img src="../Assets/software-environments.png">
-	<figcaption align = "left">
+	<figcaption align="left">
 		https://oroinc.com/b2b-ecommerce/blog/testing-and-staging-environments-in-ecommerce-implementation/
 	</figcaption>
 </figure>
