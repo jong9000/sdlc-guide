@@ -1,6 +1,6 @@
 # Software Development Life Cycle
 
-"...a process for planning, creating, testing, and deploying an information system." <sup>[[1]]</sup>
+"...a process for planning, creating, testing, and deploying an information system." <sup>[1]</sup>
 
 ### [Phases](./Phases/phases.md)
 
