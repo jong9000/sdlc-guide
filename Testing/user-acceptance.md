@@ -2,7 +2,7 @@
 
 # User Acceptance Testing
 
-"User acceptance testing (UAT) consists of a process of verifying that a solution works for the user." <sup>[[1]]</sup>
+"User acceptance testing (UAT) consists of a process of verifying that a solution works for the user." <sup>[1]</sup>
 
 ### Basics
 - done in the final stages of the testing process
