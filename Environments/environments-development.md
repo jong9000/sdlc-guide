@@ -2,7 +2,7 @@
 
 
 # Development
-- "The environment you use when you create software." <sup>[[1]]</sup>
+- "The environment you use when you create software." <sup>[1]</sup>
 
 
 
