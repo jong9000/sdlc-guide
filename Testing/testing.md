@@ -17,7 +17,7 @@
 
 
 | Functional | Non-Functional |
---- | --- | --- |
+ | --- | --- |
 | features | realiabiltiy |
 | featrues | load capacity |
 | features | scalability |
